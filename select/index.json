@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Deceptacon",
+  "base_artist": "Le Tigre",
+  "createdAt": "2026-02-13T08:18:24.400858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Deceptacon",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/01_Deceptacon_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Deceptacon (BBC Evening Session)",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/02_Deceptacon_(BBC_Evening_Session)_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Deceptacon (DFA remix)",
+      "artist": "Le Tigre",
+      "has_synced": false,
+      "path": "select/03_Deceptacon_(DFA_remix)_Le_Tigre.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Deceptacon",
+      "artist": "Robbie Williams",
+      "has_synced": false,
+      "path": "select/04_Deceptacon_Robbie_Williams.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Deceptacon",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/05_Deceptacon_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Deceptacon",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/06_Deceptacon_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Deceptacon",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/07_Deceptacon_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LE TIGRE - DECEPTACON",
+      "artist": "twae23",
+      "has_synced": true,
+      "path": "select/08_LE_TIGRE_-_DECEPTACON_twae23.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Deceptacon (BBC Evening Session)",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/09_Deceptacon_(BBC_Evening_Session)_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/10_Deceptacon_(DFA_Rmx)_By_Tim_Goldsworthy_&_James_Murphy_for_the_Dfa_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Deceptacon",
+      "artist": "Williams, Robbie",
+      "has_synced": true,
+      "path": "select/11_Deceptacon_Williams,_Robbie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LE TIGRE - DECEPTACON",
+      "artist": "twae23",
+      "has_synced": true,
+      "path": "select/12_LE_TIGRE_-_DECEPTACON_twae23.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Deceptacon (feat. Big Freedia)",
+      "artist": "Boyfriend",
+      "has_synced": true,
+      "path": "select/13_Deceptacon_(feat._Big_Freedia)_Boyfriend.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Deceptacon (LIVE)",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/14_Deceptacon_(LIVE)_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Le Tigre - Deceptacon",
+      "artist": "Fabric",
+      "has_synced": true,
+      "path": "select/15_Le_Tigre_-_Deceptacon_Fabric.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Deceptacon",
+      "artist": "Tigre, Le",
+      "has_synced": true,
+      "path": "select/16_Deceptacon_Tigre,_Le.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Deceptacon",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/17_Deceptacon_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Deceptacon",
+      "artist": "Robbie Wiilliams",
+      "has_synced": true,
+      "path": "select/18_Deceptacon_Robbie_Wiilliams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Deceptacon",
+      "artist": "Le Tigre",
+      "has_synced": false,
+      "path": "select/pl_01_Deceptacon_Le_Tigre.txt"
+    }
+  ]
+}
